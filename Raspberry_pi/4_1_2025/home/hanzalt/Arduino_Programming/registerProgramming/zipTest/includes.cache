@@ -1,0 +1,42 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/vakhaib/.arduino15/packages/MiniCore/hardware/avr/2.2.2/cores/MCUdude_corefiles"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/vakhaib/.arduino15/packages/MiniCore/hardware/avr/2.2.2/variants/standard"
+  },
+  {
+    "Sourcefile": "/tmp/arduino/sketches/9D04FCCC6137AEED724C9ADB20BF3B06/sketch/sketch_aug18a.ino.cpp",
+    "Include": "DHT.h",
+    "Includepath": "/home/vakhaib/Arduino/libraries/DHT_sensor_library"
+  },
+  {
+    "Sourcefile": "/tmp/arduino/sketches/9D04FCCC6137AEED724C9ADB20BF3B06/sketch/sketch_aug18a.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/vakhaib/Arduino/libraries/DHT_sensor_library/DHT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/vakhaib/Arduino/libraries/DHT_sensor_library/DHT_U.cpp",
+    "Include": "Adafruit_Sensor.h",
+    "Includepath": "/home/vakhaib/Arduino/libraries/Adafruit_Unified_Sensor"
+  },
+  {
+    "Sourcefile": "/home/vakhaib/Arduino/libraries/DHT_sensor_library/DHT_U.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/vakhaib/Arduino/libraries/Adafruit_Unified_Sensor/Adafruit_Sensor.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
