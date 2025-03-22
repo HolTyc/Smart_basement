@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/hanzalt/Arduino_Programming/arduinoProgramming/masterATmega1'
+let g:netrw_dirhist_0='/home/hanzalt/Arduino_Programming/arduinoProgramming/interfaceATmega3'
+let g:netrw_dirhist_9='/home/hanzalt/Arduino_Programming/arduinoProgramming/masterATmega1'
+let g:netrw_dirhist_8='/home/hanzalt/Arduino_Programming/arduinoProgramming'
+let g:netrw_dirhist_7='/home/hanzalt/Arduino_Programming/arduinoProgramming/masterATmega1'
+let g:netrw_dirhist_6='/etc/init.d'
+let g:netrw_dirhist_5='/home/hanzalt/Arduino_Programming/arduinoProgramming/testFiles/serial'
+let g:netrw_dirhist_4='/home/hanzalt/Arduino_Programming/arduinoProgramming/testFiles/digitalReadTest'
+let g:netrw_dirhist_3='/home/hanzalt/Arduino_Programming/arduinoProgramming/testFiles'
+let g:netrw_dirhist_2='/home/hanzalt/Arduino_Programming/arduinoProgramming/sensorTest'

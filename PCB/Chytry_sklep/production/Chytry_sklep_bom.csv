@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC Part Number
+100nF,"BC1, BC2, MC1, MC2, MC3",Capacitor_SMD:C_0805_2012Metric,C49678
+BMP388,BMP388,Bosh:BMP388,C779278
+4.7K,"BR1, BR2",Resistor_SMD:R_0805_2012Metric,C17673
+10p,"C1, C2, C3, C4, C5, C6",Capacitor_SMD:C_0805_2012Metric,C157608
+LED,"IData1, MData1, SData1",LED_SMD:LED_0805_2012Metric,C2297
+LED,"ISafe1, MSafe1, SSafe1",LED_SMD:LED_0805_2012Metric,C2296
+0,LM393DT1,ST:LM393DT,C32901
+MQ-7,MQ_7,Sensor:MQ-6,C242495
+10K_Potentiometer,"P_MQ4, P_MQ7",Potentiometer_SMD:Potentiometer_Bourns_3314G_Vertical,C780220
+220,"R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12",Resistor_SMD:R_0805_2012Metric,C17557
+10k,"MR1, MR2, MR3, MR4, RR1, RR2, RR3, DR1",Resistor_SMD:R_0805_2012Metric,C17414
+16Mhz,"X1, X2, X3",Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738
